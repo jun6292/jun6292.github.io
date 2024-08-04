@@ -1,23 +1,23 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "language": "ko",
+    "siteUrl": "https://jun6292.github.io/",
+    "title": "Wonjun's github blog",
+    "titleTemplate": "%s · Wonjun's github blog",
+    "description": "Wonjun's github blog",
+    "author": "Jo Won jun",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Wonjun's github blog",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/%EC%9B%90%EC%A4%80-%EC%A1%B0-26ba5331a/",
+      "velog": "https://velog.io/@singularity/posts",
+      "tistory": "https://singularity7606.tistory.com/",
+      "mail": "mailto:kr.public.wonjun@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Wonjun's github blog" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -27,9 +27,9 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "portfolio",
         "url": "/resume.pdf"
-      },
+      }, // 나중에 포트폴리오 생기면 여기 수정
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }

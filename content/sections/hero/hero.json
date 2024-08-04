@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "안녕하세요",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "끈기와 열정을 양분삼아 성장하는",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "백엔드 개발자 ",
+    "highlight": "조원준",
+    "suffix": "입니다."
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
